@@ -1,0 +1,14 @@
+git int my_project
+cd my_project
+..создал файлы
+git add .
+git commit -m
+git log
+git branch feature_branch
+git checkout feature_branch
+..внес изменения
+git add file1.txt
+git commit -m 'task7.branch feature_branch'
+git switch main
+git remote add github https://github.com/pircuser61/task1.git
+git push github --all
